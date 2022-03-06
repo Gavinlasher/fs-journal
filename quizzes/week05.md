@@ -66,7 +66,8 @@ let Schema = ____proxystate____.Schema;
 
 <!-- enter you answer in the space below -->
 
-```a server database
+```
+like a auth0
 
 ```
 
@@ -75,8 +76,8 @@ let Schema = ____proxystate____.Schema;
 <!-- enter you answer in the space below -->
 
 ```
-data
-?
+request
+respones
 ```
 
 **9.**
